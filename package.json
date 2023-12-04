@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/department19/Calculator/issues"
   },
-  "homepage": "https://github.com/department19/Calculator#readme"
+  "homepage": "https://github.com/department19/Calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
